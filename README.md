@@ -1,2 +1,2 @@
-# SignIn-Form
-Simple SignIn using HTML CSS JavaScript BootStrap
+# Sign-Up-Form
+Simple Sign-Up using HTML CSS JavaScript BootStrap
